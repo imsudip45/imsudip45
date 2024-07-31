@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @imsudip45
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning it
-- This is my new Git Profile
+- This is my Github Profile
 - New Projects on the way
 
 <!---
