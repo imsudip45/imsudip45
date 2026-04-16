@@ -1,5 +1,5 @@
 <div align="center">
-##Sudip Niroula
+**SUDIP NIROULA**
  
 **Software Engineer · AI Agent Developer · Backend & Distributed Systems**
  
