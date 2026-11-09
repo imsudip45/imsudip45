@@ -1,5 +1,3 @@
-# Sudip Niroula
-
 Full Stack Engineer at Nullion Technologies (since May 2026), based in Birtamod, Nepal. I build web applications with Python (FastAPI, Django REST Framework) and TypeScript (Next.js, React).
 
 ### Projects
@@ -12,4 +10,4 @@ Full Stack Engineer at Nullion Technologies (since May 2026), based in Birtamod,
 
 ### Tools I use most
 
-Python, TypeScript, SQL · FastAPI, Django REST Framework, Next.js, React · PostgreSQL, Docker · Gemini API
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![Django REST Framework](https://img.shields.io/badge/Django%20REST%20Framework-092E20?style=flat&logo=django&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Gemini API](https://img.shields.io/badge/Gemini%20API-8E75B2?style=flat&logo=googlegemini&logoColor=white)
