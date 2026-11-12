@@ -1,4 +1,4 @@
-Full Stack Engineer at Nullion Technologies (since May 2026), based in Birtamod, Nepal. I build web applications with Python (FastAPI, Django REST Framework) and TypeScript (Next.js, React).
+Full Stack Engineer at Nullion Technologies, a US company in Pittsburgh (remote, since May 2026). Based in Birtamod, Nepal. I build web applications with Python (FastAPI, Django REST Framework) and TypeScript (Next.js, React).
 
 ### Projects
 
